@@ -1,0 +1,43 @@
+body {background-color: #EAE7B1; 
+    font-size: 20px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(32, 23, 23);
+    text-decoration: none;
+}
+
+h1 {font-size: 60px;
+    color: rgb(80, 6, 6);
+    text-align: center;
+}
+
+p {
+    
+}
+
+nav {
+    text-align: center;
+    font-size: 40px;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 25px;
+    word-spacing: 30px;
+
+}
+
+
+.deneme {
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ text-decoration: none;
+}
+
+hr {color: black;}
+
+
+span {text-decoration: none;}
+
